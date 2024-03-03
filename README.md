@@ -7,6 +7,9 @@ Simulated payment flow to demonstrate the checkout process.
 Clean HTML structure for easy customization and integration into existing projects.
 Lightweight and easy to understand codebase, suitable for learning and experimentation.
 
+<h3>ScreenShot</h3>
+<img src="https://github.com/DevBhalgamiya/Razorpay-Clone/blob/main/1.png" alt="screenshot-1" width="500px" height="800px"/>
+
 <h3>Usage</h3>
 Clone the repository to your local machine.
 
